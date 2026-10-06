@@ -1,0 +1,6 @@
+{
+  "name": "Temhert 4K",
+  "description": "Educational 4K video creator that transforms reference photos into bilingual videos in Amharic and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
